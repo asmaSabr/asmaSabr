@@ -24,7 +24,7 @@ Advanced Software Engineering for Digital Services
 asma@inpt:~$ cat focus.txt
 → Full-stack development with Java & Spring Boot
 → Backend architecture & event-driven systems
-→ DevOps: containers, CI/CD, Kubernetes
+→ DevOps: Docker, CI/CD, Kubernetes
 → Integrating AI into real-world applications
 
 asma@inpt:~$ ls building/
@@ -32,14 +32,14 @@ saas-platforms/   ai-powered-apps/   data-pipelines/
 
 asma@inpt:~$ cat experience.log
 [2026] Software Engineering Intern ── Orange Morocco
-[2025] UI/UX Designer ────────────── Titrit Technologies
+[2025] UI/UX Designer ─────────────── Titrit Technologies
 
 asma@inpt:~$ cat passions.txt
 → Scalable Architectures    → System Design
 → Intelligent Automation    → Developer Tooling
 
 asma@inpt:~$ echo $STATUS
-Open to end-of-studies internship (PFE) opportunities 🚀
+Open to end-of-studies internship PFE opportunities 🚀
 ```
 
 ---
