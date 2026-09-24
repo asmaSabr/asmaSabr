@@ -73,3 +73,19 @@ Open to end-of-studies internship PFE opportunities 🚀
 
 
 </div>
+
+## 📫 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/asma-sabri-s3i"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48" /></a>
+&nbsp;&nbsp;
+<a href="mailto:asmasabrri@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/asmaSabr"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" /></a>
+
+<h4>Open to PFE internship opportunities — feel free to reach out.</h4>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1931,100:1E3A8A&height=80&section=footer" />
