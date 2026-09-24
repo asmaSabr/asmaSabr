@@ -43,3 +43,33 @@ Open to end-of-studies internship PFE opportunities 🚀
 ```
 
 ---
+## ⚙️ Tech Stack
+
+<div align="center">
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,nodejs,graphql&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,js,tailwind,figma&theme=dark" />
+
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,linux,prometheus,grafana&theme=dark" />
+
+**Data & AI**
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,numpy,kafka,spark&theme=dark" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,idea,vscode,postman&theme=dark" />
+
+
+</div>
