@@ -34,6 +34,11 @@ asma@inpt:~$ cat experience.log
 [2026] Software Engineering Intern ── Orange Morocco
 [2025] UI/UX Designer ─────────────── Titrit Technologies
 
+asma@inpt:~$ cat clubs.txt
+→ Design Cell Lead @ A2S Junior-Entreprise
+→ Member @ Social Affairs Club (CAS)
+→ Member @ Club Informatique et Télécoms (CIT)
+
 asma@inpt:~$ cat passions.txt
 → Scalable Architectures    → System Design
 → Intelligent Automation    → Developer Tooling
