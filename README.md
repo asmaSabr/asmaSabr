@@ -62,7 +62,7 @@ Open to end-of-studies internship PFE opportunities 🚀
 
 **DevOps & Cloud**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,linux,prometheus,grafana&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,prometheus,grafana&theme=dark" />
 
 **Data & AI**
 
